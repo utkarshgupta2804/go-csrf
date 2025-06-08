@@ -2,9 +2,9 @@ package main
 
 import (
 	"log"
-	"github.com/akhil/golang-csrf-project/db"
-	"github.com/akhil/golang-csrf-project/server"
-	"github.com/akhil/golang-csrf-project/server/middleware/myJwt"
+	"github.com/utkarshgupta2804/csrf-project/db"
+	"github.com/utkarshgupta2804/csrf-project/server"
+	"github.com/utkarshgupta2804/csrf-project/server/middleware/myJwt"
 )
 
 var host = "localhost"

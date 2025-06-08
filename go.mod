@@ -1,4 +1,4 @@
-module github.com/akhil/golang-csrf-project
+module github.com/utkarshgupta2804/csrf-project
 
 go 1.16
 

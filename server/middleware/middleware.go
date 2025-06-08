@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 	"strings"
-	"github.com/akhil/golang-csrf-project/server/middleware/myJwt"
-	"github.com/akhil/golang-csrf-project/server/templates"
-	"github.com/akhil/golang-csrf-project/db"
+	"github.com/utkarshgupta2804/csrf-project/server/middleware/myJwt"
+	"github.com/utkarshgupta2804/csrf-project/server/templates"
+	"github.com/utkarshgupta2804/csrf-project/db"
 )
 
 func NewHandler() http.Handler {
